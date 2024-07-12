@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
+%TF.CreationDate,2023-10-09T09:12:30+02:00*%
+%TF.ProjectId,ULN_PowerSupply_v2_0,554c4e5f-506f-4776-9572-537570706c79,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-10-09 09:12:30*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X121920000Y-83058000D02*
+X185928000Y-83058000D01*
+X185928000Y-123444000D01*
+X121920000Y-123444000D01*
+X121920000Y-83058000D01*
+M02*
